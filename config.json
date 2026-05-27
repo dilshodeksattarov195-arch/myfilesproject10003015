@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorserify",
+        "uuid": 2282355,
+        "checksum": "moox9c"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
